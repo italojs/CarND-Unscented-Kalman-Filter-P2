@@ -102,7 +102,7 @@ int main()
           float vy_gt;
 
           iss >> x_gt;
-          iss >>timestamp>>y_gt;
+          iss >> y_gt;
           iss >> vx_gt;
           iss >> vy_gt;
 
